@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from matplotlib import pyplot as plt
 
 class Whosampled:
     headers = {'User-Agent':
