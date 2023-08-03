@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
 from matplotlib import pyplot as plt
 
 class Whosampled:
